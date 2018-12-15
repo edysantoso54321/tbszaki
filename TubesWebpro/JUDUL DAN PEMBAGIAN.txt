@@ -1,0 +1,12 @@
+Nama Tubes: Kuriak
+Tema: E-commerce
+
+Nama Anggota:
+
+1.Abduh salam (1301164011): CRUD artikel
+2.Hafidzil Khairi (1301160171): Login, CRUD user, CRUD coupon, dan Menyatukan semua tugas ke controller admin 
+3.Muhammad Zaky Ramadhan (1301160468): CRUD barang
+4.Rahmatian Jayanty S (1301164086): CRUD comment
+
+
+Maaf kak belum disatuin semua, menyusul di tanggal 2 Mei 2018
